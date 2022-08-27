@@ -6,7 +6,7 @@ import Navbarrr from './navbar2';
 function App() {
   return <>
       <Navbarr/>
-      <h2>Saludos!!</h2>  
+      
     </>;
 }
 
