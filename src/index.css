@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.greeting{
+  font-family: 'Courier New', Courier, monospace;
+  color: blueviolet;
+}
+
+
+.container-fluid{
+  background-color: black;
+}
+
+.nav-item{
+  color: aliceblue;
+}
