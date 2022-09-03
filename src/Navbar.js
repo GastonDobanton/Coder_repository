@@ -8,7 +8,7 @@ import React from 'react';
 import Cartwidget from './cartwidget';
 import logo from './MySneaker/img/logo.jpg';
 import './index.css';
-import Itemlistcontainer from './Itemlistcontainer'
+
 
 //<>
 function Navbarr() {
@@ -32,7 +32,7 @@ function Navbarr() {
        </ul>
        <Cartwidget />
       </div>
-      < Itemlistcontainer greeting={'Saludos'} />
+      
      </div>
      </Navbar>
   );
